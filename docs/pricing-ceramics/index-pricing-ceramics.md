@@ -9,7 +9,7 @@
 - Calcul du prix de vente adapté.
 
 ## Guide de démarrage rapide
-1. **Commande du fichier** : Obtenez votre propre outil Google Sheets en effectuant une demande par mail.
+1. **Commande du fichier** : Obtenez votre propre outil Google Sheets en effectuant une demande par mail 📩 **[Demande d’accès](mailto:valentbotte@gmail.com?subject=Demande%20d'accès%20Pricing%20Ceramics&body=Bonjour,%20je%20souhaite%20utiliser%20Pricing%20Ceramics.%20Pouvez-vous%20m’en%20dire%20plus%20?)**
 2. **Configurer votre feuille** : Une fois le script installé, configurez votre feuille pour qu'elle fonctionne avec les données de tarification.
 3. **Lancer l'outil** : L'outil apparaîtra dans le menu personnalisé de Google Sheets. Cliquez dessus pour calculer automatiquement vos prix.
 
