@@ -1,35 +1,30 @@
-Politique de Confidentialité
+# 🔐 Politique de Confidentialité
 
-1. Introduction
+## 🏠 1. Introduction
+Bienvenue sur **Pricing Ceramics** !  
+Cet outil **App Script** pour **Google Sheets** aide les **céramistes** à calculer leurs prix de vente.
 
-Bienvenue sur Pricing Ceramics ! Cette application Google Sheets a pour objectif d'aider les céramistes à calculer leurs prix de vente de manière simplifiée.
+✅ **Nous respectons votre vie privée.**  
+Nous expliquons ici comment nous gérons vos données.
 
-Votre vie privée est importante pour nous. Cette politique explique comment nous gérons les données de votre Google Sheet lorsque vous utilisez notre script App Script.
+---
 
-2. Données collectées
+## 📊 2. Données collectées
+❌ **Aucune donnée personnelle n’est collectée.**  
+Le script **ne communique avec aucun serveur externe**.
 
-Nous ne collectons aucune donnée personnelle.
+📝 **L’App Script peut seulement :**
+- Lire les cellules pour effectuer des calculs.
+- Modifier certaines cellules pour enregistrer des résultats.
+- Créer des onglets pour mieux organiser les données.
 
-L'App Script de Pricing Ceramics a uniquement accès aux feuilles de calcul Google Sheets où il est installé et n'interagit pas avec d'autres services extérieurs.
+---
 
-Le script peut :
+## 🔒 3. Sécurité & Permissions
+- **Pricing Ceramics** utilise uniquement les permissions **nécessaires** pour fonctionner.  
+- Vous pouvez **vérifier et modifier** le script dans **Extensions > Apps Script** de Google Sheets.
 
-Lire les valeurs des cellules pour effectuer des calculs.
+---
 
-Modifier certaines cellules pour enregistrer des résultats.
-
-Créer des onglets pour mieux organiser les données.
-
-3. Partage des données
-
-Vos données restent strictement dans votre propre Google Sheet et ne sont jamais envoyées à des serveurs externes.
-
-4. Sécurité
-
-Pricing Ceramics utilise uniquement les permissions nécessaires pour fonctionner.
-
-Vous pouvez examiner le code source dans l’onglet Extensions > Apps Script de votre Google Sheet.
-
-5. Contact
-
-Si vous avez des questions, vous pouvez nous contacter via GitHub.
+## 📩 4. Contact
+💡 Une question ? Contactez-nous sur **[GitHub](https://github.com/ton-utilisateur/artisan-business/issues)**.

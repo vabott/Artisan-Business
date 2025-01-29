@@ -22,7 +22,7 @@ Pour en savoir plus sur l'utilisation de l'outil et son fonctionnement, consulte
 
 🔧 Installation
 
-Vous souhaitez utiliser Pricing Ceramics ? Suivez les étapes d'installation dans le fichier Installation.
+Vous souhaitez utiliser Pricing Ceramics ? Demandez votre outils par email.
 
 💡 FAQ
 

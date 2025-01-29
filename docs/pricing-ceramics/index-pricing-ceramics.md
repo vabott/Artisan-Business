@@ -9,7 +9,7 @@
 - Calcul du prix de vente adapté.
 
 ## Guide de démarrage rapide
-1. **[Importer le script dans un Google Sheet](installation.md)** : Suivez le guide d'installation pour ajouter l'App Script à votre feuille Google Sheets.
+1. **Commande du fichier** : Obtenez votre propre outil Google Sheets en effectuant une demande par mail.
 2. **Configurer votre feuille** : Une fois le script installé, configurez votre feuille pour qu'elle fonctionne avec les données de tarification.
 3. **Lancer l'outil** : L'outil apparaîtra dans le menu personnalisé de Google Sheets. Cliquez dessus pour calculer automatiquement vos prix.
 

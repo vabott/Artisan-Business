@@ -1,21 +1,20 @@
-Conditions d'utilisation
+# 📜 Conditions d'utilisation
 
-1. Acceptation des conditions
+## 1️⃣ Acceptation des conditions
+En utilisant **Pricing Ceramics**, vous acceptez les présentes conditions d'utilisation.
 
-En utilisant Pricing Ceramics, vous acceptez ces conditions d'utilisation.
+## 2️⃣ Responsabilité de l'utilisateur
+- Vous êtes responsable des **données saisies** dans le **Google Sheet**.  
+- **Pricing Ceramics** ne garantit pas l'exactitude des calculs.  
+- Aucune responsabilité ne pourra être engagée concernant les décisions prises à partir des résultats générés.
 
-2. Responsabilité de l'utilisateur
+## 3️⃣ Mises à jour
+Nous pouvons mettre à jour le script et ces conditions **sans préavis**.  
+📢 Vérifiez régulièrement les **mises à jour sur GitHub**.
 
-L'utilisateur est responsable des données saisies dans le Google Sheet. Pricing Ceramics ne garantit pas l'exactitude des calculs et ne peut être tenu responsable des décisions prises sur la base des résultats obtenus.
+## 4️⃣ Limitation de responsabilité
+L’utilisation de **Pricing Ceramics** se fait **à vos propres risques**.  
+Nous ne sommes pas responsables des **erreurs, pannes ou pertes de données**.
 
-3. Mises à jour
-
-Nous pouvons mettre à jour le script et ces conditions sans préavis. Il est recommandé de vérifier régulièrement les mises à jour sur GitHub.
-
-4. Limitation de responsabilité
-
-L'utilisation de Pricing Ceramics se fait à vos propres risques. Nous ne sommes pas responsables des erreurs, pannes ou pertes de données.
-
-5. Contact
-
-Pour toute question ou suggestion, consultez notre repo GitHub.
+## 5️⃣ Contact
+📩 **Besoin d’aide ?** Consultez notre **[GitHub](https://github.com/ton-utilisateur/artisan-business/issues)**.
