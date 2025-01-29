@@ -1,12 +1,22 @@
 # Documentation de Pricing Ceramics
 
 ## Présentation
+L'objectif est de fournir un calcul détaillé des coûts et de répartir ces derniers en pourcentages pour une meilleure compréhension du tarif fixé.
 **Pricing Ceramics** est un outil App Script intégré à Google Sheets permettant aux artisans céramistes d'automatiser leurs calculs de tarification. Il facilite l'estimation des coûts de production, du prix de vente et des marges.
 
 ### Fonctionnalités principales :
-- Calcul automatique des prix en fonction des coûts de production.
-- Ajout de marges de profit.
-- Calcul du prix de vente adapté.
+- calculer le nombre de pièces pouvant être mise dans votre four en une cuisson
+- calculer le prix de main d'oeuvre pour obtenir la rémunérationque vous souhaitez, selon votre statut
+- déterminer le prix de vente de leurs créations à partir des paramètres suivants :
+    - La quantité de terre utilisée
+    - Le temps de production
+    - Le type de terre (avec son coût spécifique)
+    - Les dimensions des pièces (hauteur, largeur, longueur)
+    - Les coûts associés à la cuisson, à la main-d'œuvre, à l'expertise et à la créativité
+- lister vos coûts fixes
+- lister vos terres
+- valoriser l'émaillage
+- valoriser la créativité et le temps de recherche
 
 ## Guide de démarrage rapide
 1. **Commander votre version de l'outil** : Obtenez votre propre outil Google Sheets en effectuant une demande
