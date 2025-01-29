@@ -10,12 +10,6 @@ Un outil App Script intégré à Google Sheets pour automatiser les calculs de t
 ### [Autres projets à venir](#)
 Des projets pour les artisans dans divers domaines, à venir dans ce repository.
 
-## Navigation dans la documentation
-
-- **[Conditions d'utilisation](pricing-ceramics/conditions.md)** : Les conditions d'utilisation de cet outil.
-- **[Politique de confidentialité](pricing-ceramics/confidentialite.md)** : Votre confidentialité est importante, lisez notre politique.
-- **[Questions fréquentes (FAQ)](pricing-ceramics/faq.md)** : Trouvez des réponses aux questions courantes.
-
 ## Signaler un problème
 
 Si vous avez un problème ou une question, n'hésitez pas à ouvrir une **[issue sur GitHub](https://github.com/ton-utilisateur/artisan-business/issues)**.
