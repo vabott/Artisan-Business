@@ -1,20 +1,35 @@
-# Bienvenue dans la documentation de "Artisan Business"
+# 🎨 Bienvenue dans la documentation de **Artisan Business**
 
-Bienvenue dans la documentation du projet **Artisan Business**. Ce projet regroupe des outils et ressources pour aider les artisans d'art. Actuellement, il inclut des outils comme **Pricing Ceramics**, qui permet d'estimer la tarification pour les céramistes.
+Bienvenue dans la documentation du projet **Artisan Business**.  
+Ce projet regroupe des outils et ressources pour aider les **artisans d’art** à mieux gérer leur activité.  
 
-## Projets disponibles
+## 📌 Projets disponibles
 
-### [Pricing Ceramics](pricing-ceramics/index-pricing-ceramics.md)
-Un outil App Script intégré à Google Sheets pour automatiser les calculs de tarification pour les céramistes. Cette documentation vous guidera à travers l'utilisation et les fonctionnalités de l'outil.
+### 🔹 [Pricing Ceramics](pricing-ceramics/index-pricing-ceramics.md)
+Un outil **App Script** intégré à **Google Sheets**, conçu pour **automatiser la tarification** des céramistes.  
+📖 Consultez la documentation pour en savoir plus sur son fonctionnement.
 
-### [Autres projets à venir](#)
-Des projets pour les artisans dans divers domaines, à venir dans ce repository.
-
-## Signaler un problème
-
-Si vous avez un problème ou une question, n'hésitez pas à ouvrir une **[issue sur GitHub](https://github.com/ton-utilisateur/artisan-business/issues)**.
+### 🔹 Autres outils à venir
+Nous travaillons sur d’autres outils destinés aux artisans.  
+📌 Restez informé en suivant ce repository !
 
 ---
 
-**Artisan Business** est conçu pour être simple et utile. Bonne documentation et à bientôt !
+## 🎟️ **Comment obtenir Pricing Ceramics ?**
+L’outil **n’est pas en libre accès** et nécessite une activation manuelle.  
 
+✅ **Pour recevoir votre outil personnalisé, veuillez nous contacter :**  
+📩 **[Demande d’accès](mailto:valentbotte@gmail.com?subject=Demande%20d'accès%20Pricing%20Ceramics&body=Bonjour,%20je%20souhaite%20utiliser%20Pricing%20Ceramics.%20Pouvez-vous%20m’en%20dire%20plus%20?)**  
+💬 Ou ouvrez une **[issue sur GitHub](https://github.com/vabott/artisan-business/issues)**.
+
+---
+
+## 🛠 **Signaler un problème**
+Si vous rencontrez un bug ou avez une question :  
+📢 **Ouvrez une [issue sur GitHub](https://github.com/vabott/artisan-business/issues)**.  
+Nous nous efforçons de répondre rapidement.
+
+---
+
+📍 **Artisan Business** est conçu pour être simple, utile et adapté aux besoins des artisans.  
+🚀 Bonne documentation et à bientôt !
