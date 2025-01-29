@@ -27,4 +27,4 @@ Le script **ne communique avec aucun serveur externe**.
 ---
 
 ## 📩 4. Contact
-💡 Une question ? Contactez-nous sur **[GitHub](https://github.com/ton-utilisateur/artisan-business/issues)**.
+💡 Une question ? Contactez-nous sur **[GitHub](https://github.com/vabott/artisan-business/issues)**.

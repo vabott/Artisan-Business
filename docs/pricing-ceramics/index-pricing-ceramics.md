@@ -23,7 +23,7 @@
 
 ## Signaler un problème
 
-Si vous rencontrez un problème, ouvrez une **[issue sur GitHub](https://github.com/ton-utilisateur/artisan-business/issues)** pour que nous puissions vous aider.
+Si vous rencontrez un problème, ouvrez une **[issue sur GitHub](https://github.com/vabott/artisan-business/issues)** pour que nous puissions vous aider.
 
 ---
 

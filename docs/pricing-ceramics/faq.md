@@ -13,4 +13,4 @@ Vous pouvez cliquer sur **"Continuer"** pour exécuter le script en toute sécur
 ---
 
 💡 **Une autre question ?**  
-👉 Consultez notre **[Documentation complète](index-pricing-ceramics.md)** ou ouvrez une **[issue sur GitHub](https://github.com/ton-utilisateur/artisan-business/issues)**.
+👉 Consultez notre **[Documentation complète](index-pricing-ceramics.md)** ou ouvrez une **[issue sur GitHub](https://github.com/vabott/artisan-business/issues)**.

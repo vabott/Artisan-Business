@@ -17,4 +17,4 @@ L’utilisation de **Pricing Ceramics** se fait **à vos propres risques**.
 Nous ne sommes pas responsables des **erreurs, pannes ou pertes de données**.
 
 ## 5️⃣ Contact
-📩 **Besoin d’aide ?** Consultez notre **[GitHub](https://github.com/ton-utilisateur/artisan-business/issues)**.
+📩 **Besoin d’aide ?** Consultez notre **[GitHub](https://github.com/vabott/artisan-business/issues)**.
