@@ -19,7 +19,7 @@ Nous travaillons sur d’autres outils destinés aux artisans.
 L’outil **n’est pas en libre accès** et nécessite une activation manuelle.  
 
 ✅ **Pour recevoir votre outil personnalisé, veuillez nous contacter :**  
-📋 [**Demander l’accès ar formulaire**](https://forms.gle/nWRj3hrSaPazFv738)  
+📋 [**Demander l’accès par formulaire**](https://forms.gle/nWRj3hrSaPazFv738)  
 📩 **[Demander l’accès par mail](mailto:valentbotte@gmail.com?subject=Demande%20d'accès%20Pricing%20Ceramics&body=Bonjour,%20je%20souhaite%20utiliser%20Pricing%20Ceramics.%20Pouvez-vous%20m’en%20dire%20plus%20?)**  
 💬 Ou ouvrez une **[issue sur GitHub](https://github.com/vabott/artisan-business/issues)**.
 
